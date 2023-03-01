@@ -1,2 +1,2 @@
 # Cyber-Music-with-sonic-pi
-[![ForTheBadge makes-people-s
+[![ForTheBadge makes-people-smi
