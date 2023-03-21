@@ -1,2 +1,2 @@
 # Cyber-Music-with-sonic-pi
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/b
